@@ -26,3 +26,13 @@ linguagem e como ela afeta paginas html
 - css
 
 ---
+
+## Estrutura do Projeto:
+
+- meu-projeto/
+- │
+- ├── calc.html        # Arquivo HTML principal
+- ├── css/
+- │   └── calc.css     # Estilo da calculadora
+- ├──  js/
+- │    └── calc.js      # Script da calculadora
